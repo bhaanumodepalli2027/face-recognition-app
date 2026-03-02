@@ -1,16 +1,92 @@
-# React + Vite
+# 🔐 Face Recognition App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a Face Recognition web application built to explore how facial detection works in modern web development. I developed this project to strengthen my understanding of frontend tooling, performance optimization, and integrating intelligent features into web applications.
 
-Currently, two official plugins are available:
+The application focuses on clean UI design, fast performance, and a scalable structure that can later support backend and database integration.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Why I Built This
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+As a Computer Science student interested in AI and Full Stack Development, I wanted to experiment with:
 
-## Expanding the ESLint configuration
+- Real-time face detection
+- Modern frontend tooling (Vite)
+- Clean UI design using Tailwind CSS
+- Structuring projects in a scalable way
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project helped me understand how intelligent features can be integrated into web applications.
+
+---
+
+## ✨ Features
+
+- Face detection functionality
+- Responsive and clean user interface
+- Fast build and development using Vite
+- Modular and maintainable code structure
+
+---
+
+## 🛠 Tech Stack
+
+- HTML
+- CSS
+- JavaScript (ES6+)
+- Vite
+- Tailwind CSS
+- ESLint
+
+---
+
+## ⚙️ How to Run the Project
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/bhaanumodepalli2027/face-recognition-app.git
+```
+
+2. Move into the project folder
+
+```bash
+cd face-recognition-app
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Start the development server
+
+```bash
+npm run dev
+```
+
+Then open:
+
+```
+http://localhost:5173/
+```
+
+---
+
+## 📈 Future Improvements
+
+- Backend integration using Node.js and Express
+- Database storage (MongoDB)
+- User authentication system
+- Real-time webcam face recognition
+- Deployment to cloud platforms
+
+---
+
+## 👨‍💻 About Me
+
+I am a Computer Science Engineering student passionate about building intelligent and scalable web applications. I enjoy combining AI concepts with modern full-stack development to create impactful projects.
+
+---
+
+⭐ If you found this project interesting, feel free to explore and contribute.
